@@ -1,0 +1,5 @@
+/*This is to remove the white edges around the canvas. (There is margin and padding by default.)*/
+*{
+  margin: 0;
+  padding: 0;
+}
